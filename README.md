@@ -36,8 +36,6 @@
 | [**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**](https://arxiv.org/abs/2502.14669)                                                   | arXiv | 2025-02-14 |                           -                            |                                                    -                                                    |
 | [**VOILA: EVALUATION OF MLLMS FOR PERCEPTUAL UNDERSTANDING AND ANALOGICAL REASONING**](https://arxiv.org/abs/2503.00043)                                            | arXiv | 2025-03-04 |       [GitHub](https://github.com/nlylmz/Voila/)       |       ⭐ <sub><img src="https://img.shields.io/github/stars/nlylmz/Voila?style=flat&label="></sub>       |
 
-![GitHub Repo stars](https://img.shields.io/github/stars/deepcs233/Visual-CoT?style=flat&label=)
-
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
