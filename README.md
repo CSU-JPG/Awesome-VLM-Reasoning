@@ -21,12 +21,15 @@
         <li><a href="#others-rl">🔗 Other reinforcement learning methods</a></li>
       </ul>
     </li>
+    <li><a href="#Datasets">Datasets</a></li>
+    <li><a href="#Other-Resources">Other Resources</a></li>
+    <li><a href="#Survey">Survey</a></li>
   </ol>
 </details>
 
 ## Multi-modality COT Reasoning
 
-
+![GitHub Repo stars](https://img.shields.io/github/stars/deepcs233/Visual-CoT?style=flat&label=%E2%AD%90)
 
 | Title                                                                                                                                                               | Venue |    Date    |                          Code                          |                                                     Star                                                      |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:| 
@@ -38,7 +41,7 @@
 | [**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**](https://arxiv.org/abs/2502.14669)                                                   | arXiv | 2025-02-14 |                           -                            |                                                       -                                                       |
 | [**VOILA: EVALUATION OF MLLMS FOR PERCEPTUAL UNDERSTANDING AND ANALOGICAL REASONING**](https://arxiv.org/abs/2503.00043)                                            | arXiv | 2025-03-04 |       [GitHub](https://github.com/nlylmz/Voila/)       |       ![GitHub Repo stars](https://img.shields.io/github/stars/nlylmz/Voila?style=flat&label=%E2%AD%90)       |
 
-
+![GitHub Repo stars](https://img.shields.io/github/stars/deepcs233/Visual-CoT?style=flat&label=%E2%AD%90)
 
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
@@ -96,6 +99,45 @@
 | [**Fast Best-of-N Decoding via Speculative Rejection**](https://arxiv.org/abs/2410.20290v2)               | arXiv | 2024-10-31 | [GitHub](https://github.com/Zanette-Labs/SpeculativeRejection) | ![GitHub Repo stars](https://img.shields.io/github/stars/Zanette-Labs/SpeculativeRejection?style=flat&label=%E2%AD%90) |
 | [**Distributionally Robust Optimization**](https://arxiv.org/abs/2411.02549)                              | arXiv | 2024-11-04 |                               -                                |                                                           -                                                            |
 | [**Continual SFT Matches Multimodal RLHF with Negative Supervision**](https://arxiv.org/abs/2411.14797v1) | arXiv | 2024-11-22 |                               -                                |                                                           -                                                            |
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
+## Datasets
+
+| Name                                                                                              | Paper |    Date    |                           Download                            |                                              Star                                               |
+|:--------------------------------------------------------------------------------------------------|:-----:|:----------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:| 
+| [**V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks**](https://github.com/haonan3/V1) |   -   | 2025-03-17 | [HuggingFace](https://huggingface.co/datasets/haonan3/V1-33K) | ![GitHub Repo stars](https://img.shields.io/github/stars/haonan3/V1?style=flat&label=%E2%AD%90) |
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
+## Other Resources
+
+| Title                                                                                                                                |    Date    |                       Code                        |                                                 Star                                                 |
+|:-------------------------------------------------------------------------------------------------------------------------------------|:----------:|:-------------------------------------------------:|:----------------------------------------------------------------------------------------------------:| 
+| [**R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3**](https://github.com/Deep-Agent/R1-V) | 2025-02-03 | [GitHub](https://github.com/deepcs233/Visual-CoT) | ![GitHub Repo stars](https://img.shields.io/github/stars/Deep-Agent/R1-V?style=flat&label=%E2%AD%90) |
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
+## Survey
+
+| Title                                                                                                                                | Venue |    Date    |                                        Code                                        |                                                                   Star                                                                    |
+|:-------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:----------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+| [**Multimodal Chain-of-Thought Reasoning:A Comprehensive Survey**](https://arxiv.org/abs/2503.12605)                                 | arXiv | 2025-03-16 |           [GitHub]( https://github.com/yaotingwangofficial/Awesome-MCoT)           |           ![GitHub Repo stars](https://img.shields.io/github/stars/yaotingwangofficial/Awesome-MCoT?style=flat&label=%E2%AD%90)           |
+| [**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**](https://arxiv.org/abs/2503.09567) | arXiv | 2025-03-13 | [GitHub]( https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) | ![GitHub Repo stars](https://img.shields.io/github/stars/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning?style=flat&label=%E2%AD%90) |
+| [**Personalized Generation In Large Model Era: A Survey**](https://arxiv.org/abs/2503.02614)                                         | arXiv | 2025-03-04 |                                         -                                          |                                                                     -                                                                     |
+| [**A Survey on Post-training of Large Language Models**](https://arxiv.org/abs/2503.06072)                                           | arXiv | 2025-03-08 |                                         -                                          |                                                                     -                                                                     |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
