@@ -18,6 +18,7 @@
         <li><a href="#based-on-dpo">🔤 <em>DPO-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-ppo">🧠 <em>PPO-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-rlhf">🤏 <em>RLHF-based</em> reinforcement learning method</a></li>
+        <li><a href="#based-on-sft">👀 <em>SFT-based</em> reinforcement learning method</a></li>
         <li><a href="#others-rl">🔗 Other reinforcement learning methods</a></li>
       </ul>
     </li>
@@ -29,20 +30,16 @@
 
 ## Multi-modality COT Reasoning
 
-
-
-| Title                                                                                                                                                               | Venue |    Date    |                          Code                          |                                                     Star                                                      |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:| 
-| [**Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning**](https://arxiv.org/abs/2403.16999) | arXiv | 2024-03-16 |   [GitHub](https://github.com/deepcs233/Visual-CoT)    |   ![GitHub Repo stars](https://img.shields.io/github/stars/deepcs233/Visual-CoT?style=flat&label=%E2%AD%90)   |
-| [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://arxiv.org/abs/2403.16999)                                                                    | arXiv | 2024-05-20 |  [GitHub](https://github.com/amazon-science/mm-cot/)   |  ![GitHub Repo stars](https://img.shields.io/github/stars/amazon-science/mm-cot?style=flat&label=%E2%AD%90)   |
-| [**Visual SKETCHPAD: Sketching as a Visual Chain of Thought for Multimodal Language Models**](https://arxiv.org/abs/2406.09403)                                     | arXiv | 2024-06-09 | [GitHub](https://github.com/Yushi-Hu/VisualSketchpad/) | ![GitHub Repo stars](https://img.shields.io/github/stars/Yushi-Hu/VisualSketchpad?style=flat&label=%E2%AD%90) |
-| [**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**](https://arxiv.org/abs/2501.07542)                                                       | arXiv | 2025-01-07 |                           -                            |                                                       -                                                       |
-| [**Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search**](https://arxiv.org/abs/2502.02508)                | arXiv | 2025-02-02 | [GitHub](https://github.com/satori-reasoning/Satori/)  | ![GitHub Repo stars](https://img.shields.io/github/stars/satori-reasoning/Satori?style=flat&label=%E2%AD%90)  |
-| [**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**](https://arxiv.org/abs/2502.14669)                                                   | arXiv | 2025-02-14 |                           -                            |                                                       -                                                       |
-| [**VOILA: EVALUATION OF MLLMS FOR PERCEPTUAL UNDERSTANDING AND ANALOGICAL REASONING**](https://arxiv.org/abs/2503.00043)                                            | arXiv | 2025-03-04 |       [GitHub](https://github.com/nlylmz/Voila/)       |       ![GitHub Repo stars](https://img.shields.io/github/stars/nlylmz/Voila?style=flat&label=%E2%AD%90)       |
-
-
-
+| Title                                                                                                                                                               | Venue |    Date    |                                              Code                                              |                                                     Star                                                      |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:----------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:| 
+| [**Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning**](https://arxiv.org/abs/2403.16999) | arXiv | 2024-03-16 |                       [GitHub](https://github.com/deepcs233/Visual-CoT)                        |   ![GitHub Repo stars](https://img.shields.io/github/stars/deepcs233/Visual-CoT?style=flat&label=%E2%AD%90)   |
+| [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://arxiv.org/abs/2403.16999)                                                                    | arXiv | 2024-05-20 |                      [GitHub](https://github.com/amazon-science/mm-cot/)                       |  ![GitHub Repo stars](https://img.shields.io/github/stars/amazon-science/mm-cot?style=flat&label=%E2%AD%90)   |
+| [**Visual SKETCHPAD: Sketching as a Visual Chain of Thought for Multimodal Language Models**](https://arxiv.org/abs/2406.09403)                                     | arXiv | 2024-06-09 |                     [GitHub](https://github.com/Yushi-Hu/VisualSketchpad/)                     | ![GitHub Repo stars](https://img.shields.io/github/stars/Yushi-Hu/VisualSketchpad?style=flat&label=%E2%AD%90) |
+| [**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**](https://arxiv.org/abs/2411.10442)                       | arXiv | 2024-11-15 | [GitHub](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo/) |    ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=flat&label=%E2%AD%90)    |
+| [**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**](https://arxiv.org/abs/2501.07542)                                                       | arXiv | 2025-01-07 |                                               -                                                |                                                       -                                                       |
+| [**Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search**](https://arxiv.org/abs/2502.02508)                | arXiv | 2025-02-02 |                     [GitHub](https://github.com/satori-reasoning/Satori/)                      | ![GitHub Repo stars](https://img.shields.io/github/stars/satori-reasoning/Satori?style=flat&label=%E2%AD%90)  |
+| [**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**](https://arxiv.org/abs/2502.14669)                                                   | arXiv | 2025-02-14 |                                               -                                                |                                                       -                                                       |
+| [**VOILA: EVALUATION OF MLLMS FOR PERCEPTUAL UNDERSTANDING AND ANALOGICAL REASONING**](https://arxiv.org/abs/2503.00043)                                            | arXiv | 2025-03-04 |                           [GitHub](https://github.com/nlylmz/Voila/)                           |       ![GitHub Repo stars](https://img.shields.io/github/stars/nlylmz/Voila?style=flat&label=%E2%AD%90)       |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -68,12 +65,15 @@
 
 ### 🔤Based On DPO
 
-| Title                                                                                                                                                 | Venue |    Date    | Code | Star |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:----:|:----:|
-| [**Accelerated Preference Optimization for Large Language Model Alignment**](https://arxiv.org/abs/2410.06293v1)                                      | arXiv | 2024-10-08 |  -   |  -   |
-| [**MPPO: Multi Pair-wise Preference Optimization for LLMs with Arbitrary Negative Samples**](https://arxiv.org/abs/2412.15244v1)                      | arXiv | 2024-12-13 |  -   |  -   |
-| [**Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization**](https://arxiv.org/abs/2412.18279v1) | arXiv | 2024-12-24 |  -   |  -   |
-| [**Gradient Imbalance in Direct Preference Optimization**](https://arxiv.org/abs/2502.20847v1)                                                        | arXiv | 2025-02-28 |  -   |  -   |
+| Title                                                                                                                                                 | Venue |    Date    |                      Code                       |                                                  Star                                                   |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:-----------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+| [**UNA: UNIFYING ALIGNMENTS OF RLHF/PPO, DPOAND KTO BY A GENERALIZED IMPLICIT REWARDFUNCTION**](https://arxiv.org/abs/2408.15339)                     | arXiv | 2024-09-30 |                        -                        |                                                    -                                                    |
+| [**Accelerated Preference Optimization for Large Language Model Alignment**](https://arxiv.org/abs/2410.06293v1)                                      | arXiv | 2024-10-08 |                        -                        |                                                    -                                                    |
+| [**AS SIMPLE AS FINE-TUNING: LLM ALIGNMENT VIABIDIRECTIONAL NEGATIVE FEEDBACK LOSS**](https://arxiv.org/abs/2410.04834v2)                             | arXiv | 2024-10-25 |    [GitHub](https://github.com/MaoXinn/BNF/)    |    ![GitHub Repo stars](https://img.shields.io/github/stars/MaoXinn/BNF?style=flat&label=%E2%AD%90)     |
+| [**KTO: Model Alignment as Prospect Theoretic Optimization**](https://arxiv.org/abs/2402.01306)                                                       | arXiv | 2024-11-19 | [GitHub](https://github.com/ContextualAI/HALOs) | ![GitHub Repo stars](https://img.shields.io/github/stars/ContextualAI/HALOs?style=flat&label=%E2%AD%90) |
+| [**MPPO: Multi Pair-wise Preference Optimization for LLMs with Arbitrary Negative Samples**](https://arxiv.org/abs/2412.15244v1)                      | arXiv | 2024-12-13 |                        -                        |                                                    -                                                    |
+| [**Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization**](https://arxiv.org/abs/2412.18279v1) | arXiv | 2024-12-24 |                        -                        |                                                    -                                                    |
+| [**Gradient Imbalance in Direct Preference Optimization**](https://arxiv.org/abs/2502.20847v1)                                                        | arXiv | 2025-02-28 |                        -                        |                                                    -                                                    |
 
 ### 🧠Based On PPO
 
@@ -82,6 +82,7 @@
 | [**Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward**](https://arxiv.org/abs/2411.15247v1) | arXiv | 2024-11-22 |                              -                              |                                                          -                                                          |
 | [**Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step**](https://arxiv.org/abs/2501.13926)                | arXiv | 2025-01-23 | [GitHub](https://github.com/ZiyuGuo99/Image-Generation-CoT) | ![GitHub Repo stars](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT?style=flat&label=%E2%AD%90) |
 | [**Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization**](https://arxiv.org/abs/2410.09302v2)     | arXiv | 2025-02-11 |                              -                              |                                                          -                                                          |
+| [**Uncertainty-aware Reward Model: Teaching Reward Models to Know What is Unknown**](https://arxiv.org/abs/2410.00847v2)                         | arXiv | 2025-02-12 |                              -                              |                                                          -                                                          |
 | [**Lean and Mean: Decoupled Value Policy Optimization with Global Value Guidance**](https://arxiv.org/abs/2502.16944v1)                          | arXiv | 2025-02-24 |                              -                              |                                                          -                                                          |
 | [**Q♯: Provably Optimal Distributional RL for LLM Post-Training**](https://arxiv.org/abs/2502.20548v1)                                           | arXiv | 2025-02-27 |         [GitHub](https://github.com/jinpz/q_sharp)          |         ![GitHub Repo stars](https://img.shields.io/github/stars/jinpz/q_sharp?style=flat&label=%E2%AD%90)          |
 
@@ -92,13 +93,21 @@
 | [**Enhancing LLMs for Physics Problem-Solving using Reinforcement Learning with Human-AI Feedback**](https://arxiv.org/abs/2412.06827v1) | arXiv | 2024-12-06 |  -   |  -   |
 | [**RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation**](https://arxiv.org/abs/2503.09499)                                  | arXiv | 2025-02-10 |  -   |  -   |
 
+### 👀Based On SFT
+
+| Title                                                                                                     | Venue |    Date    | Code | Star |
+|:----------------------------------------------------------------------------------------------------------|:-----:|:----------:|:----:|:----:|
+| [**Continual SFT Matches Multimodal RLHF with Negative Supervision**](https://arxiv.org/abs/2411.14797v1) | arXiv | 2024-11-22 |  -   |  -   |
+| [**ORPO: Monolithic Preference Optimization without Reference Model**](https://arxiv.org/abs/2403.07691)  | arXiv | 2024-03-14 |  -   |  -   |
+
 ### 🔗Others-RL
 
-| Title                                                                                                     | Venue |    Date    |                              Code                              |                                                          Star                                                          |
-|:----------------------------------------------------------------------------------------------------------|:-----:|:----------:|:--------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
-| [**Fast Best-of-N Decoding via Speculative Rejection**](https://arxiv.org/abs/2410.20290v2)               | arXiv | 2024-10-31 | [GitHub](https://github.com/Zanette-Labs/SpeculativeRejection) | ![GitHub Repo stars](https://img.shields.io/github/stars/Zanette-Labs/SpeculativeRejection?style=flat&label=%E2%AD%90) |
-| [**Distributionally Robust Optimization**](https://arxiv.org/abs/2411.02549)                              | arXiv | 2024-11-04 |                               -                                |                                                           -                                                            |
-| [**Continual SFT Matches Multimodal RLHF with Negative Supervision**](https://arxiv.org/abs/2411.14797v1) | arXiv | 2024-11-22 |                               -                                |                                                           -                                                            |
+| Title                                                                                                                            | Venue |    Date    |                              Code                              |                                                          Star                                                          |
+|:---------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:--------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+| [**The Perfect Blend: Redefining RLHF with Mixture of Judges**](https://arxiv.org/abs/2409.20370)                                | arXiv | 2024-09-30 |                               -                                |                                                           -                                                            |
+| [**Fast Best-of-N Decoding via Speculative Rejection**](https://arxiv.org/abs/2410.20290v2)                                      | arXiv | 2024-10-31 | [GitHub](https://github.com/Zanette-Labs/SpeculativeRejection) | ![GitHub Repo stars](https://img.shields.io/github/stars/Zanette-Labs/SpeculativeRejection?style=flat&label=%E2%AD%90) |
+| [**Distributionally Robust Optimization**](https://arxiv.org/abs/2411.02549)                                                     | arXiv | 2024-11-04 |                               -                                |                                                           -                                                            |
+| [**MM-EUREKA: EXPLORING VISUAL AHA MOMENT WITH RULE-BASED LARGE-SCALE REINFORCEMENTLEARNING**](https://arxiv.org/abs/2503.07365) | arXiv | 2025-03-10 |       [GitHub]( https://github.com/ModalMinds/MM-EUREKA)       |       ![GitHub Repo stars](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA?style=flat&label=%E2%AD%90)        |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -108,9 +117,10 @@
 
 ## Datasets
 
-| Name                                                                                              | Paper |    Date    |                           Download                            |                                              Star                                               |
-|:--------------------------------------------------------------------------------------------------|:-----:|:----------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:| 
-| [**V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks**](https://github.com/haonan3/V1) |   -   | 2025-03-17 | [HuggingFace](https://huggingface.co/datasets/haonan3/V1-33K) | ![GitHub Repo stars](https://img.shields.io/github/stars/haonan3/V1?style=flat&label=%E2%AD%90) |
+| Name                                                                                              |                                                                     Paper                                                                     |    Date    |                           Download                            |                                                  Star                                                   |
+|:--------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:| 
+| [**MMPR**](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo/)  | [**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**](https://arxiv.org/abs/2411.10442) | 2024-11-15 | [HuggingFace](https://huggingface.co/datasets/OpenGVLab/MMPR) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=flat&label=%E2%AD%90) |
+| [**V1: Toward Multimodal Reasoning by Designing Auxiliary Tasks**](https://github.com/haonan3/V1) |                                                                       -                                                                       | 2025-03-17 | [HuggingFace](https://huggingface.co/datasets/haonan3/V1-33K) |     ![GitHub Repo stars](https://img.shields.io/github/stars/haonan3/V1?style=flat&label=%E2%AD%90)     |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -131,7 +141,6 @@
 </p>
 
 ## Survey
-
 
 | Title                                                                                                                                | Venue |    Date    |                                        Code                                        |                                                                   Star                                                                    |
 |:-------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:----------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
