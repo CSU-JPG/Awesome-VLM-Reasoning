@@ -49,11 +49,13 @@
 
 ## Benchmarks
 
+
 | Title                                                                                                                                             | Venue |    Date    |                         Code                          |                                                    Star                                                     |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:-----------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
 | [**MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging Questions**](https://arxiv.org/abs/2503.09499)                        | arXiv | 2025-03-12 | [GitHub]( https://github.com/modelscope/data-juicer/) | ![GitHub Repo stars](https://img.shields.io/github/stars/ModelScope/data-juicer?style=flat&label=%E2%AD%90) |
 | [**MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**](https://arxiv.org/abs/2502.00698v1)                           | arXiv | 2025-02-02 |       [GitHub](https://github.com/AceCHQ/MMIQ/)       |      ![GitHub Repo stars](https://img.shields.io/github/stars/AceCHQ/MMIQ?style=flat&label=%E2%AD%90)       |
 | [**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**](https://arxiv.org/abs/2503.11557v1) | arXiv | 2025-03-14 |     [ProjectPage](https://verify-eqh.pages.dev/)      |                                                      -                                                      |
+| [**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**](https://arxiv.org/abs/2503.21435)                     | arXiv | 2025-03-27 |                           -                           |                                                      -                                                      |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
