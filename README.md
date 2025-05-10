@@ -19,6 +19,7 @@
         <li><a href="#based-on-ppo">🧠 <em>PPO-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-rlhf">🤏 <em>RLHF-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-sft">👀 <em>SFT-based</em> reinforcement learning method</a></li>
+        <li><a href="#based-on-grpo">⚙️ <em>GRPO-based</em> reinforcement learning method</a></li>
         <li><a href="#others-rl">🔗 Other reinforcement learning methods</a></li>
       </ul>
     </li>
@@ -40,6 +41,9 @@
 | [**Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search**](https://arxiv.org/abs/2502.02508)                | arXiv | 2025-02-02 |                     [GitHub](https://github.com/satori-reasoning/Satori/)                      | ![GitHub Repo stars](https://img.shields.io/github/stars/satori-reasoning/Satori?style=flat&label=%E2%AD%90)  |
 | [**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**](https://arxiv.org/abs/2502.14669)                                                   | arXiv | 2025-02-14 |                                               -                                                |                                                       -                                                       |
 | [**VOILA: EVALUATION OF MLLMS FOR PERCEPTUAL UNDERSTANDING AND ANALOGICAL REASONING**](https://arxiv.org/abs/2503.00043)                                            | arXiv | 2025-03-04 |                           [GitHub](https://github.com/nlylmz/Voila/)                           |       ![GitHub Repo stars](https://img.shields.io/github/stars/nlylmz/Voila?style=flat&label=%E2%AD%90)       |
+| [**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**](https://arxiv.org/abs/2504.07962)                              | arXiv | 2025-04-10 |                          [GitHub](https://github.com/GLUS-video/GLUS)                          |     ![GitHub Repo stars](https://img.shields.io/github/stars/GLUS-video/GLUS?style=flat&label=%E2%AD%90)      |
+| [**Kimi-VL Technical Report**](https://arxiv.org/abs/2504.07491)                                                                                                    | arXiv | 2025-04-15 |                        [GitHub](https://github.com/MoonshotAI/Kimi-VL)                         |    ![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-VL?style=flat&label=%E2%AD%90)    |
+| [**Accelerating Large Language Model Reasoning via Speculative Search**](https://arxiv.org/abs/2505.02865)                                                          | arXiv | 2025-05-03 |                                               -                                                |                                                       -                                                       |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -48,7 +52,6 @@
 </p>
 
 ## Benchmarks
-
 
 | Title                                                                                                                                             | Venue |    Date    |                         Code                          |                                                    Star                                                     |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:-----------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
@@ -103,14 +106,22 @@
 | [**Continual SFT Matches Multimodal RLHF with Negative Supervision**](https://arxiv.org/abs/2411.14797v1) | arXiv | 2024-11-22 |  -   |  -   |
 | [**ORPO: Monolithic Preference Optimization without Reference Model**](https://arxiv.org/abs/2403.07691)  | arXiv | 2024-03-14 |  -   |  -   |
 
+### ⚙️Based On GRPO
+
+| Title                                                                                                                    | Venue |    Date    |                        Code                         |                                                    Star                                                     |
+|:-------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:---------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+| [**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**](https://arxiv.org/abs/2504.06958) | arXiv | 2025-04-13 | [GitHub](https://github.com/OpenGVLab/VideoChat-R1) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/VideoChat-R1?style=flat&label=%E2%AD%90) |
+| [**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**](https://arxiv.org/abs/2503.13377)                    | arXiv | 2025-03-17 |    [GitHub](https://github.com/www-Ye/TimeZero)     |    ![GitHub Repo stars](https://img.shields.io/github/stars/www-Ye/TimeZero?style=flat&label=%E2%AD%90)     |
+
 ### 🔗Others-RL
 
-| Title                                                                                                                            | Venue |    Date    |                              Code                              |                                                          Star                                                          |
-|:---------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:--------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
-| [**The Perfect Blend: Redefining RLHF with Mixture of Judges**](https://arxiv.org/abs/2409.20370)                                | arXiv | 2024-09-30 |                               -                                |                                                           -                                                            |
-| [**Fast Best-of-N Decoding via Speculative Rejection**](https://arxiv.org/abs/2410.20290v2)                                      | arXiv | 2024-10-31 | [GitHub](https://github.com/Zanette-Labs/SpeculativeRejection) | ![GitHub Repo stars](https://img.shields.io/github/stars/Zanette-Labs/SpeculativeRejection?style=flat&label=%E2%AD%90) |
-| [**Distributionally Robust Optimization**](https://arxiv.org/abs/2411.02549)                                                     | arXiv | 2024-11-04 |                               -                                |                                                           -                                                            |
-| [**MM-EUREKA: EXPLORING VISUAL AHA MOMENT WITH RULE-BASED LARGE-SCALE REINFORCEMENTLEARNING**](https://arxiv.org/abs/2503.07365) | arXiv | 2025-03-10 |       [GitHub]( https://github.com/ModalMinds/MM-EUREKA)       |       ![GitHub Repo stars](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA?style=flat&label=%E2%AD%90)        |
+| Title                                                                                                                                          | Venue |    Date    |                              Code                              |                                                          Star                                                          |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:--------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+| [**Learning Future Representation with Synthetic Observations for Sample-efficient Reinforcement Learning**](https://arxiv.org/abs/2405.11740) | arXiv | 2024-05-20 |                               -                                |                                                           -                                                            |
+| [**The Perfect Blend: Redefining RLHF with Mixture of Judges**](https://arxiv.org/abs/2409.20370)                                              | arXiv | 2024-09-30 |                               -                                |                                                           -                                                            |
+| [**Fast Best-of-N Decoding via Speculative Rejection**](https://arxiv.org/abs/2410.20290v2)                                                    | arXiv | 2024-10-31 | [GitHub](https://github.com/Zanette-Labs/SpeculativeRejection) | ![GitHub Repo stars](https://img.shields.io/github/stars/Zanette-Labs/SpeculativeRejection?style=flat&label=%E2%AD%90) |
+| [**Distributionally Robust Optimization**](https://arxiv.org/abs/2411.02549)                                                                   | arXiv | 2024-11-04 |                               -                                |                                                           -                                                            |
+| [**MM-EUREKA: EXPLORING VISUAL AHA MOMENT WITH RULE-BASED LARGE-SCALE REINFORCEMENTLEARNING**](https://arxiv.org/abs/2503.07365)               | arXiv | 2025-03-10 |       [GitHub]( https://github.com/ModalMinds/MM-EUREKA)       |       ![GitHub Repo stars](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA?style=flat&label=%E2%AD%90)        |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -152,6 +163,7 @@
 | [**A Survey on Post-training of Large Language Models**](https://arxiv.org/abs/2503.06072)                                           | arXiv | 2025-03-08 |                                         -                                          |                                                                     -                                                                     |
 | [**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**](https://arxiv.org/abs/2503.09567) | arXiv | 2025-03-13 | [GitHub]( https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) | ![GitHub Repo stars](https://img.shields.io/github/stars/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning?style=flat&label=%E2%AD%90) |
 | [**Multimodal Chain-of-Thought Reasoning:A Comprehensive Survey**](https://arxiv.org/abs/2503.12605)                                 | arXiv | 2025-03-16 |           [GitHub]( https://github.com/yaotingwangofficial/Awesome-MCoT)           |           ![GitHub Repo stars](https://img.shields.io/github/stars/yaotingwangofficial/Awesome-MCoT?style=flat&label=%E2%AD%90)           |
+| [**Awesome-Large-Multimodal-Reasoning-Models**](https://arxiv.org/abs/2505.04921)                                                    | arXiv | 2025-05-08 | [GitHub]( https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)  | ![GitHub Repo stars](https://img.shields.io/github/stars/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models?style=flat&label=%E2%AD%90)  |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
