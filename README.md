@@ -20,6 +20,7 @@
         <li><a href="#based-on-rlhf">🤏 <em>RLHF-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-sft">👀 <em>SFT-based</em> reinforcement learning method</a></li>
         <li><a href="#based-on-grpo">⚙️ <em>GRPO-based</em> reinforcement learning method</a></li>
+        <li><a href="#about-reward">🏆<em>About Reward</em></a></li>  
         <li><a href="#others-rl">🔗 Other reinforcement learning methods</a></li>
       </ul>
     </li>
@@ -112,6 +113,13 @@
 |:-------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:---------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
 | [**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**](https://arxiv.org/abs/2504.06958) | arXiv | 2025-04-13 | [GitHub](https://github.com/OpenGVLab/VideoChat-R1) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/VideoChat-R1?style=flat&label=%E2%AD%90) |
 | [**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**](https://arxiv.org/abs/2503.13377)                    | arXiv | 2025-03-17 |    [GitHub](https://github.com/www-Ye/TimeZero)     |    ![GitHub Repo stars](https://img.shields.io/github/stars/www-Ye/TimeZero?style=flat&label=%E2%AD%90)     |
+
+### 🏆About Reward
+
+| Title                                                                                                                     | Venue |    Date    |                       Code                        |                                                   Star                                                    |
+|:--------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:-------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
+| [**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**](https://arxiv.org/abs/2505.02835) | arXiv | 2025-05-05 | [GitHub](https://github.com/yfzhang114/r1_reward) | ![GitHub Repo stars](https://img.shields.io/github/stars/yfzhang114/r1_reward?style=flat&label=%E2%AD%90) |
+
 
 ### 🔗Others-RL
 
