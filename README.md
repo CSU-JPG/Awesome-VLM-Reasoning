@@ -114,6 +114,7 @@
 |:-------------------------------------------------------------------------------------------------------------------------|:-----:|:----------:|:---------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
 | [**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**](https://arxiv.org/abs/2504.06958) | arXiv | 2025-04-13 | [GitHub](https://github.com/OpenGVLab/VideoChat-R1) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/VideoChat-R1?style=flat&label=%E2%AD%90) |
 | [**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**](https://arxiv.org/abs/2503.13377)                    | arXiv | 2025-03-17 |    [GitHub](https://github.com/www-Ye/TimeZero)     |    ![GitHub Repo stars](https://img.shields.io/github/stars/www-Ye/TimeZero?style=flat&label=%E2%AD%90)     |
+| [**DRA-GRPO: Exploring Diversity-Aware Reward Adjustment for R1-Zero-Like Training of Large Language Models**](https://arxiv.org/abs/2505.09655) | arXiv | 2025-05-14 |    [GitHub](https://github.com/xiwenc1/DRA-GRPO)    |    ![GitHub Repo stars](https://img.shields.io/github/stars/xiwenc1/DRA-GRPO?style=flat&label=%E2%AD%90)    |
 
 ### 🏆About Reward
 
