@@ -60,6 +60,7 @@
 | [**MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**](https://arxiv.org/abs/2502.00698v1)                           | arXiv | 2025-02-02 |       [GitHub](https://github.com/AceCHQ/MMIQ/)       |      ![GitHub Repo stars](https://img.shields.io/github/stars/AceCHQ/MMIQ?style=flat&label=%E2%AD%90)       |
 | [**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**](https://arxiv.org/abs/2503.11557v1) | arXiv | 2025-03-14 |     [ProjectPage](https://verify-eqh.pages.dev/)      |                                                      -                                                      |
 | [**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**](https://arxiv.org/abs/2503.21435)                     | arXiv | 2025-03-27 |                           -                           |                                                      -                                                      |
+| [**PointArena: Probing Multimodal Grounding Through Language-Guided Pointing**](https://arxiv.org/abs/2505.09990)                                 | arXiv | 2025-05-15 | [GitHub]( https://github.com/pointarena/pointarena/)  | ![GitHub Repo stars](https://img.shields.io/github/stars/pointarena/pointarena?style=flat&label=%E2%AD%90)  |
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
